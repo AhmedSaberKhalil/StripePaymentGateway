@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g+iHEbp44691fCrsJeYSvW/J/Jwc5yf5tevT0Pb9qeA=",
+  "Source": "StripePaymentGateway",
+  "BasePath": "_content/StripePaymentGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
